@@ -16,7 +16,7 @@ Please visit my [website](https://phoenix19950512.github.io).
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ai,tensorflow,pytorch,opencv,sklearn,nextjs,react,angular,svelte,vue,ts,django,fastapi,flask,express,nestjs,laravel,mysql,mongodb,prisma,postgres,tailwind,selenium,bots,js,php,css,html,c,cs,cpp,dotnet,github" />
+  <img src="https://skillicons.dev/icons?i=py,aws,ai,tensorflow,pytorch,opencv,sklearn,nextjs,react,angular,svelte,vue,ts,django,fastapi,flask,express,nestjs,laravel,mysql,mongodb,prisma,postgres,tailwind,selenium,bots,js,php,css,html,c,cs,cpp,dotnet,github" />
 </p>
 
 ## 📌 Pinned Repositories
