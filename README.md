@@ -23,6 +23,8 @@ Please visit my [website](https://phoenix19950512.github.io).
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=Open-WebUI)](https://github.com/phoenix19950512/Open-WebUI)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=Smart-School-Site-in-Arabic)](https://github.com/phoenix19950512/Smart-School-Site)
+
 ## 📜 License
 
 This profile and all its content are licensed under the [MIT License](LICENSE).
