@@ -45,7 +45,7 @@ Please visit my [website](https://phoenix19950512.github.io).
 </div>
 
 <p align="center">
- <img width="1000" src="https://github.com/phoenix19950512/phoenix19950512/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/phoenix19950512/phoenix19950512/blob/main/github-snake.svg" alt="snake"/>
 </p>
 
 ## 📜 License
