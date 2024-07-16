@@ -18,7 +18,7 @@ Please visit my [![Website](https://img.shields.io/badge/Website-000000?style=fl
 
 [![GitHub followings](https://img.shields.io/badge/dynamic/json?color=blue&label=Followings&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fphoenix19950512)](https://github.com/phoenix19950512?tab=following)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=phoenix19950512&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=phoenix19950512&title=Stars,Followers,Commits,Repositories,MultipleLang&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="60px" style="margin-right: 10px;">
