@@ -2,7 +2,7 @@
 
 I'm a passionate AI and Web researcher and developer with a strong background in machine learning, computer vision, large language models, and web frameworks. I love exploring new technologies and contributing to impactful projects.
 
-Please visit my [website](https://phoenix19950512.github.io).
+Please visit my [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://phoenix19950512.github.io).
 
 <img src="https://komarev.com/ghpvc/?username=phoenix19950512&style=for-the-badge&color=orange" alt=""/>
 
