@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hello! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 I'm a passionate AI and Web researcher and developer with a strong background in machine learning, computer vision, large language models, and web frameworks. I love exploring new technologies and contributing to impactful projects.
 
@@ -9,7 +9,7 @@ Please visit my [![Website](https://img.shields.io/badge/Website-000000?style=fl
 - 🔭 **Current Focus:** Working on innovative AI projects and integrating AI in web pages, and contributing to open-source communities
 - 🌱 **Learning:** Advanced topics in fashion web frameworks, deep learning and neural networks
 - 💬 **Ask me about:** Web, AI, ML, Computer Vision, NLP, Large Language Models, and so on.
-- 📫 **How to reach me:** [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:phoenix19950512@gmail.com)
+- 📫 **How to reach me:** [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:phoenix19950512@gmail.com) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 - ⚡ **Fun fact:** I'm a big fan of sci-fi movies and love hiking in my free time
 
 <img src="https://komarev.com/ghpvc/?username=phoenix19950512&style=for-the-badge&color=orange" alt=""/>
