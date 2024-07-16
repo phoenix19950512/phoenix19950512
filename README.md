@@ -18,7 +18,7 @@ Please visit my [website](https://phoenix19950512.github.io).
 - 🔭 **Current Focus:** Working on innovative AI projects and integrating AI in web pages, and contributing to open-source communities
 - 🌱 **Learning:** Advanced topics in fashion web frameworks, deep learning and neural networks
 - 💬 **Ask me about:** Web, AI, ML, Computer Vision, NLP, Large Language Models, and so on.
-- 📫 **How to reach me:** [phoenix19950512@gmail.com](mailto:phoenix19950512@gmail.com)
+- 📫 **How to reach me:** [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:phoenix19950512@gmail.com)
 - ⚡ **Fun fact:** I'm a big fan of sci-fi movies and love hiking in my free time
 
 ## 🛠️ Skills
