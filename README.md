@@ -14,10 +14,6 @@ Please visit my [![Website](https://img.shields.io/badge/Website-000000?style=fl
 
 <img src="https://komarev.com/ghpvc/?username=phoenix19950512&style=for-the-badge&color=orange" alt=""/>
 
-[![GitHub followers](https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fphoenix19950512)](https://github.com/phoenix19950512?tab=followers)
-
-[![GitHub followings](https://img.shields.io/badge/dynamic/json?color=blue&label=Followings&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fphoenix19950512)](https://github.com/phoenix19950512?tab=following)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=phoenix19950512&title=Stars,Followers,Commits,Repositories,MultipleLang&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
