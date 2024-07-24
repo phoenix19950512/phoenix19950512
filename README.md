@@ -2,7 +2,7 @@
 
 I'm a passionate AI and Web researcher and developer with a strong background in machine learning, computer vision, large language models, and web frameworks. I love exploring new technologies and contributing to impactful projects.
 
-Please visit my [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://phoenix19950512.github.io).
+Please visit my [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://phoenix19950512.vercel.app).
 
 ## 🚀 About Me
 
@@ -14,7 +14,7 @@ Please visit my [![Website](https://img.shields.io/badge/Website-000000?style=fl
 
 <img src="https://komarev.com/ghpvc/?username=phoenix19950512&style=for-the-badge&color=orange" alt=""/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=phoenix19950512&title=Stars,Followers,Commits,Repositories,MultipleLang&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=phoenix19950512&title=Stars,Followers,Commits,Repositories,MultipleLang,PR&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="60px" style="margin-right: 10px;">
