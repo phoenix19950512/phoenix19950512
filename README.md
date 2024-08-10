@@ -45,6 +45,8 @@ I'm a passionate AI and Web researcher and developer with a strong background in
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=Milkdown-website)](https://github.com/phoenix19950512/Milkdown-website)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=OpenGLCPP)](https://github.com/phoenix19950512/OpenGLCPP)
+
 ## 📜 License
 
 This profile and all its content are licensed under the [MIT License](LICENSE).
