@@ -15,9 +15,18 @@ I'm a passionate AI and Web researcher and developer with a strong background in
 [![trophy](https://github-profile-trophy.vercel.app/?username=phoenix19950512&title=Stars,Followers,Commits,Repositories,MultipleLang,PR&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="60px" style="margin-right: 10px;">
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="60px" style="margin-right: 10px;">
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="60px" style="margin-right: 10px;">
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="60px" style="margin-right: 10px;">
   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="60px" style="margin-right: 10px;">
   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="60px" style="margin-right: 10px;">
   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="60px" style="margin-right: 10px;">
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="60px" style="margin-right: 10px;">
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="60px" style="margin-right: 10px;">
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="60px" style="margin-right: 10px;">
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" width="60px" style="margin-right: 10px;">
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-12.gif" width="60px" style="margin-right: 10px;">
 </p>
 
 <p align="center">
