@@ -46,6 +46,12 @@ I'm a passionate AI and Web researcher and developer with a strong background in
   <img src="https://skillicons.dev/icons?i=py,aws,ai,tensorflow,pytorch,opencv,sklearn,nextjs,react,angular,svelte,vue,ts,django,fastapi,flask,express,nestjs,laravel,mysql,mongodb,prisma,postgres,tailwind,selenium,bots,js,php,css,html,c,cs,cpp,dotnet,github" />
 </p>
 
+<p align="center">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=phoenix19950512&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=phoenix19950512&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
 ## 📌 Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=Open-WebUI)](https://github.com/phoenix19950512/Open-WebUI)
