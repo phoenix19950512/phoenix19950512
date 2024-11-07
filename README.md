@@ -7,7 +7,7 @@ I'm a passionate AI and Web researcher and developer with a strong background in
 - 🔭 **Current Focus:** Working on innovative AI projects and integrating AI in web pages, and contributing to open-source communities
 - 🌱 **Learning:** Advanced topics in fashion web frameworks, deep learning and neural networks
 - 💬 **Ask me about:** Web, AI, ML, Computer Vision, NLP, Large Language Models, and so on.
-- 📫 **How to reach me:** [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anthonyellisryan18@gmail.com) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
+- 📫 **How to reach me:** [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:phoenix19950512@gmail.com) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 - ⚡ **Fun fact:** I'm a big fan of sci-fi movies and love hiking in my free time.
 
 <img src="https://komarev.com/ghpvc/?username=phoenix19950512&style=for-the-badge&color=orange" alt=""/>
