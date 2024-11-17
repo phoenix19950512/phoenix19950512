@@ -40,11 +40,9 @@ I'm a passionate AI and Web researcher and developer with a strong background in
 ## 📌 Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=Open-WebUI)](https://github.com/phoenix19950512/Open-WebUI)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=Smart-School-Site)](https://github.com/phoenix19950512/Smart-School-Site)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=Milkdown-website)](https://github.com/phoenix19950512/Milkdown-website)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=OpenGLCPP)](https://github.com/phoenix19950512/OpenGLCPP)
 
 ## 📜 License
