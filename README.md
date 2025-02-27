@@ -22,7 +22,7 @@ I'm a passionate AI and Web researcher and developer with a strong background in
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,aws,ai,tensorflow,pytorch,opencv,sklearn,nextjs,react,angular,svelte,vue,ts,django,fastapi,flask,express,nestjs,laravel,mysql,mongodb,prisma,postgres,tailwind,selenium,bots,js,php,css,html,c,cs,cpp,dotnet,github" />
+  <img src="https://skillicons.dev/icons?i=py,php,js,ts,go,dart,aws,gcp,azure,ansible,nginx,docker,kafka,kubernetes,nextjs,react,angular,svelte,vue,vite,django,fastapi,flask,express,laravel,nestjs,postman,mysql,mongodb,prisma,postgres,supabase,firebase,redis,redux,regex,tailwind,materialui,bootstrap,jquery,selenium,bots,cypress,flutter,latex,git,github,githubactions,gitlab,bitbucket" />
 </p>
 
 <p align="center">
