@@ -11,7 +11,7 @@ I'm a passionate AI and Web researcher and developer with a strong background in
 
 <img src="https://komarev.com/ghpvc/?username=phoenix19950512&style=for-the-badge&color=orange" alt=""/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=phoenix19950512&theme=algolia&&title=-PullRequest,-Reviews,-Experience)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=phoenix19950512)](https://github-trophies.vercel.app/?username=phoenix19950512)
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=phoenix19950512&show_icons=true&theme=vision-friendly-dark">
