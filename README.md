@@ -13,17 +13,27 @@ I'm a passionate AI and Web researcher and developer with a strong background in
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=phoenix19950512&theme=algolia&&title=-PullRequest,-Reviews,-Issues,-Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🛠️ Skills
+| Domain | Skills |
+|--------|--------|
+| 🔧 Core Programming Languages | <img src="https://skillicons.dev/icons?i=py,js,ts,go,java,php" /> |
+| 🌐 Frontend Technology | <img src="https://skillicons.dev/icons?i=django,fastapi,flask,express,nestjs,spring" /> |
+| 🔙 Backend Technology | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,vite,laravel,symfony" /> |
+| ☁️ Cloud & DevOps | <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,ansible,jenkins" /> |
+| 💾 Databases & Data Tools | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,supabase,firebase" /> |
+| ⚙️ Testing & CI/CD | <img src="https://skillicons.dev/icons?i=postman,cypress,selenium" /> |
+| 🔌 API & Data Exchange | <img src="https://skillicons.dev/icons?i=graphql,regex,kafka" /> |
+| 🛠️ Version Control | <img src="https://skillicons.dev/icons?i=git,github,gitlab" /> |
+| 🎨 UI Libraries & Styling | <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" /> |
+| 🤖 AI & ML | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /> |
+
+## 📈 Stats
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=phoenix19950512&show_icons=true&theme=vision-friendly-dark">
 </p>
 
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix19950512&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
-
-## 🛠️ Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,php,js,ts,go,dart,aws,gcp,azure,ansible,nginx,docker,kafka,kubernetes,nextjs,react,angular,svelte,vue,vite,django,fastapi,flask,express,laravel,nestjs,postman,mysql,mongodb,prisma,postgres,supabase,firebase,redis,redux,regex,tailwind,materialui,bootstrap,jquery,selenium,bots,cypress,flutter,latex,git,github,githubactions,gitlab,bitbucket" />
 </p>
 
 <p align="center">
