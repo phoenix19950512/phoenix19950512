@@ -1,14 +1,3 @@
-# Hello! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
-
-I'm a passionate AI and Web researcher and developer with a strong background in machine learning, computer vision, large language models, and web frameworks. I love exploring new technologies and contributing to impactful projects.
-
-## 🚀 About Me
-
-- 🔭 **Current Focus:** Working on innovative AI projects and integrating AI in web pages, and contributing to open-source communities
-- 🌱 **Learning:** Advanced topics in fashion web frameworks, deep learning and neural networks
-- 💬 **Ask me about:** Web, AI, ML, Computer Vision, NLP, Large Language Models, and so on.
-- ⚡ **Fun fact:** I'm a big fan of sci-fi movies and love hiking in my free time.
-
 <img src="https://komarev.com/ghpvc/?username=phoenix19950512&style=for-the-badge&color=orange" alt=""/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=phoenix19950512&theme=algolia&&title=-PullRequest,-Reviews,-Issues,-Experience)](https://github.com/ryo-ma/github-profile-trophy)
