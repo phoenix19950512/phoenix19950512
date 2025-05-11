@@ -31,14 +31,6 @@
     </a>
 </p>
 
-## 📌 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=Open-WebUI)](https://github.com/phoenix19950512/Open-WebUI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=VoiceAgentPDF-Frontend)](https://github.com/phoenix19950512/VoiceAgentPDF-Frontend)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=Milkdown-website)](https://github.com/phoenix19950512/Milkdown-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=VoiceAgentPDF-Backend)](https://github.com/phoenix19950512/VoiceAgentPDF-Backend)
-
 ## 📜 License
 
 This profile and all its content are licensed under the [MIT License](LICENSE).
